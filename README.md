@@ -1,4 +1,4 @@
-# memobied-python
+# memobird-python
 unofficial memobird python sdk
 
 
